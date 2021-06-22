@@ -1,10 +1,21 @@
-## @faas/cli
+# fission-template-cli
 
-### Quick Start
+fission-template
 
+## fission-template-cli install
 ```
 npm i fission-template-cli -g
-fiss create my-app
-
-cd my-app
 ```
+
+### list
+```
+fiss list
+```
+
+### init
+```
+fiss init
+```
+
+### fission-template-cli github
+See [https://github.com/YonSunZhen/fission-base-template](https://github.com/YonSunZhen/fission-base-template).
